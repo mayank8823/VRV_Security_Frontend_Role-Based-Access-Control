@@ -45,13 +45,13 @@ A modern, responsive Role-Based Access Control (RBAC) dashboard built with React
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Aditya-Chaurasia11/VRV_Assignment.git
-cd VRV_Assignment
+  https://github.com/mayank8823/VRV_Security_Frontend_Role-Based-Access-Control.git
+cd VRV_Frontend_Assignment
 ```
 
 2. Install dependencies:
 ```bash
-npm install
+npm i
 ```
 
 3. Start the development server:
